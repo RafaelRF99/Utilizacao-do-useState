@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  height: 100%;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  margin: 15px;
+  color: #000;
+  margin: 30px 0;
+  cursor: pointer;
+  background-color: #f1ca77;
+}
+
+button:hover {
+  background-color: #db6849;
+}
+
+.numero {
+  color: rgb(255, 54, 54);
+  text-shadow: 0px 0px 30px #FFF;
+}
